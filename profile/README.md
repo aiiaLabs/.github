@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.aiialabs.com.br/">Site oficial</a> · 
-  <a href="https://wa.me/15557779706?text=Olá!">WhatsApp</a>
+  <a href="https://wa.me/15557779706?text=Ola lia tudo bem?">WhatsApp</a>
 </p>
 
 ---

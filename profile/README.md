@@ -17,9 +17,9 @@
 
 ---
 
-## Sobre a aiiaLabs
+## Sobre a aiia Labs
 
-A **aiiaLabs** é um ecossistema de Inteligência Artificial focado em transformar organizações a partir das **pessoas**. Não vendemos ferramentas — criamos fluência, governança e impacto real em **RH**, **cultura**, **operação** e **estratégia**.
+A **aiia Labs** é um ecossistema de Inteligência Artificial focado em transformar organizações a partir das **pessoas**. Não vendemos ferramentas — criamos fluência, governança e impacto real em **RH**, **cultura**, **operação** e **estratégia**.
 
 Nosso propósito: ajudar líderes e empresas a entender onde e como a IA gera valor de verdade, com consciência e humanidade.
 
@@ -30,7 +30,7 @@ Nosso propósito: ajudar líderes e empresas a entender onde e como a IA gera va
 | Eixo | O que fazemos |
 |------|----------------|
 | **1. Diagnóstico & Soluções** | Mapeamos onde a IA pode ajudar na sua empresa e desenhamos um plano personalizado — governança, projetos sob medida e clareza antes de investir. |
-| **2. Capacitação & Cultura** | Cursos, palestras e workshops via **AIIA Academy** (de líderes a técnicos) e apoio na atração de talentos para impulsionar IA na organização. |
+| **2. Capacitação & Cultura** | Cursos, palestras e workshops via **aiia Academy** (de líderes a técnicos) e apoio na atração de talentos para impulsionar IA na organização. |
 | **3. Produtos & Automação** | Quando a dor está clara, agimos: a **LIA Suite** automatiza processos em RH, Comercial, administrativo e financeiro, liberando o time para o que importa. |
 
 ---

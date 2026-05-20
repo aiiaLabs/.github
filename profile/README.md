@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.aiialabs.com.br/" target="_blank" rel="noopener">
-    <img src="https://aiialabs-itau.s3.sa-east-1.amazonaws.com/assets/cores-e-assets-aiia-labs/logos/horizontal/LOGO-03.png" alt="aiiaLabs" width="900"/>
+    <img src="https://assets.aiialabs.com/assets/aiia_site/logos_videos/logo_hr_site.png" alt="aiiaLabs" width="900"/>
   </a>
 </p>
 

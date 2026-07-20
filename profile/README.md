@@ -19,7 +19,7 @@
 
 ## Sobre a aiia Labs
 
-A **aiia Labs** é um ecossistema de Inteligência Artificial focado em transformar organizações a partir das **pessoas**. Não vendemos ferramentas — criamos fluência, governança e impacto real em **RH**, **cultura**, **operação** e **estratégia**.
+A **aiiaLabs** é um ecossistema de Inteligência Artificial focado em transformar organizações a partir das **pessoas**. Não vendemos ferramentas — criamos fluência, governança e impacto real em **RH**, **cultura**, **operação** e **estratégia**.
 
 Nosso propósito: ajudar líderes e empresas a entender onde e como a IA gera valor de verdade, com consciência e humanidade.
 
